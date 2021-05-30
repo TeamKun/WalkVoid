@@ -1,0 +1,5 @@
+name: WalkVoid
+version: ${project.version}
+main: net.kunmc.lab.walkvoid.walkvoid.WalkVoid
+api-version: 1.16
+authors: [ Kei ]
